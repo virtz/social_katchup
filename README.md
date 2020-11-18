@@ -1,16 +1,33 @@
 # social_katchup
 
-A new Flutter project.
+<p>
+<img src="https://github.com/virtz/social_katchup/blob/main/screenshots/signin.png" width:"150px" height="auto" hspace="5" vspace="20"/>
+<img src="https://github.com/virtz/social_katchup/blob/main/screenshots/signup.png" width:"150px" height="auto" hspace="5" vspace="20"/>
+<img src="https://github.com/virtz/social_katchup/blob/main/screenshots/signin-error.png" width:"150px" height="auto" hspace="5" vspace="20"/>
+<img src="https://github.com/virtz/social_katchup/blob/main/screenshots/newsfeed.png" width:"150px" height="auto" hspace="5" vspace="20"/>
+<img src="https://github.com/virtz/social_katchup/blob/main/screenshots/inbox.png" width:"150px" height="auto" hspace="5" vspace="20"/>
+<img src="https://github.com/virtz/social_katchup/blob/main/screenshots/message.png" width:"150px" height="auto" hspace="5" vspace="20"/>
+<img src="https://github.com/virtz/social_katchup/blob/main/screenshots/notifications.png" width:"150px" height="auto" hspace="5" vspace="20"/>
+<img src="https://github.com/virtz/social_katchup/blob/main/screenshots/profile.png" width:"150px" height="auto" hspace="5" vspace="20"/>
+</p>
 
-## Getting Started
+Social katcup is a newsfeed application that also connects users all over the worlds, helps them rent , buy or lease property and the most ofthem all..stay in touch.
 
-This project is a starting point for a Flutter application.
+So far,its simply a ui kit.
 
-A few resources to get you started if this is your first Flutter project:
+## Design ❄👌
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- models
+- utils
+- assets/images
+- assets/icons
+- views
+- widgets
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contribution 🍕🗺
+
+Feature requests, issues, pull requests and questions are welcome.
+
+## Credits 😎🤓
+
+virtz(owner of repo): Mobile Developer [( github )](https://github.com/virtz)
