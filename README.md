@@ -1,7 +1,7 @@
 # social_katchup
 
 <p>
-<img src="https://github.com/virtz/social_katchup/blob/main/screenshots/signin.png" width:"150px" height="auto" hspace="5" vspace="20"/>
+<img src="https://github.com/virtz/social_katchup/blob/main/screenshots/signin.png" width:"150px" height="400" hspace="5" vspace="20"/>
 <img src="https://github.com/virtz/social_katchup/blob/main/screenshots/signup.png" width:"150px" height="auto" hspace="5" vspace="20"/>
 <img src="https://github.com/virtz/social_katchup/blob/main/screenshots/signin-error.png" width:"150px" height="auto" hspace="5" vspace="20"/>
 <img src="https://github.com/virtz/social_katchup/blob/main/screenshots/newsfeed.png" width:"150px" height="auto" hspace="5" vspace="20"/>
